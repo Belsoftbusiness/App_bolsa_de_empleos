@@ -24,4 +24,4 @@ Companies can post their vacancies and search for ideal candidates.
 Contact us to quote the development of your mobile appearance.
 
 
-Correo electrónico: [belfegorsof336699@gmail.com](mailto:belfegorsof336699@gmail.com)
+Email: [belfegorsof336699@gmail.com](mailto:belfegorsof336699@gmail.com)
