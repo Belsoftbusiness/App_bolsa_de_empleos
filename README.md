@@ -22,4 +22,5 @@ Companies can post their vacancies and search for ideal candidates.
 
 # Contacts
 Contact us to quote the development of your mobile appearance.
+WhatsApp: [+1234567890](https://wa.me/1234567890)
 Correo electrónico: [belfegorsof336699@gmail.com](mailto:belfegorsof336699@gmail.com)
