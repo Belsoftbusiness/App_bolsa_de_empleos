@@ -23,5 +23,3 @@ Companies can post their vacancies and search for ideal candidates.
 # Contacts
 Contact us to quote the development of your mobile appearance.
 
-
-Email: [belfegorsof336699@gmail.com](mailto:belfegorsof336699@gmail.com)
