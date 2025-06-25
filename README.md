@@ -21,5 +21,5 @@ Companies can post their vacancies and search for ideal candidates.
 ![Imagen Home](screenshots/IMG4.png)
 
 # Contacts
-Contact us to quote the development of your mobile appearance.
+
 
