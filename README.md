@@ -20,6 +20,4 @@ Companies can post their vacancies and search for ideal candidates.
 # Create your ad
 ![Imagen Home](screenshots/IMG4.png)
 
-# Contacts
-
 
